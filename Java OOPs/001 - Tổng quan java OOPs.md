@@ -1,5 +1,4 @@
 # Khái niệm về lập trình hướng đối tượng trong java
-
 Lập trình hướng đối tượng (OOP-Object-Oriented Programming) là một phương pháp hay mô hình giúp tăng năng suất, đơn giản hóa việc bảo trì, dễ dàng mở rộng trong thiết kế phần mềm bởi việc cung cấp một vài khái niệm như:
 
 - Đối tượng (Object)
