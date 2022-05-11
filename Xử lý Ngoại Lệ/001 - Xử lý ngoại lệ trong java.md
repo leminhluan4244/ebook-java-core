@@ -12,16 +12,16 @@ Lợi thế cốt lõi của việc xử lý ngoại lệ là duy trì luồng b
 > Ví dụ: Hãy xem xét kịch bản sau: Giả sử có 10 câu lệnh trong chương trình của bạn và xảy ra trường hợp ngoại lệ ở câu lệnh 5, phần còn lại của chương trình sẽ không được thực thi, nghĩa là câu lệnh 6 đến 10 sẽ không chạy. Nếu chúng ta thực hiện xử lý ngoại lệ, phần còn lại của câu lệnh sẽ được thực hiện. Đó là lý do tại sao chúng ta sử dụng xử lý ngoại lệ trong java.
 
 ```java
-statement 1;  
-statement 2;  
-statement 3;  
-statement 4;  
+statement 1;
+statement 2;
+statement 3;
+statement 4;
 statement 5; //ngoại lệ xảy ra
-statement 6;  
-statement 7;  
-statement 8;  
-statement 9;  
-statement 10;  
+statement 6;
+statement 7;
+statement 8;
+statement 9;
+statement 10;
 ```
 
 ## Hệ thống cấp bậc của các lớp ngoại lệ trong Java
